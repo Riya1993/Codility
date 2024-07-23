@@ -14,5 +14,5 @@ If you are using pycharm, you can install the library via GUI as well
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Riya1993/Codility/feature/RiyaGaba-CBATest/petstore-api-test.git
+   git clone https://github.com/Riya1993/Python Work/petstore-api-test.git
    cd petstore-api-tests

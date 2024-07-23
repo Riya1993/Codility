@@ -1,6 +1,6 @@
 # PetStore API Automated Regression Tests
 
-This git repository contains automated regression tests for the PET endpoint of the petstore Swagger API available on https://petstore.swagger.io/#/
+This git repository contains automated regression tests for the PET endpoint of the pet store Swagger API available on https://petstore.swagger.io/#/
 
 ## Dependencies
 
@@ -14,5 +14,13 @@ If you are using pycharm, you can install the library via GUI as well
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Riya1993/Python Work/petstore-api-test.git
-   cd petstore-api-tests
+   git clone https://github.com/Riya1993/Codility.git
+   # You can also take code from feature branch i.e. feature/RiyaGaba-CBATest
+   cd pet_test.py
+2. Install dependency:
+   ```bash
+   pip install -r requirements.txt
+3. Execute the test case using pytest:
+   ```bash
+   pytest pet_test.py
+4. Test results will be displayed in pytest output.
